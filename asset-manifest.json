@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.58c9d5dd.chunk.css",
-    "main.js": "/Portfolio/static/js/main.e4db2ac8.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e4db2ac8.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.7f5df36c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.7f5df36c.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.eb877bdd.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.eb877bdd.js.map",
     "static/js/2.bb32169e.chunk.js": "/Portfolio/static/js/2.bb32169e.chunk.js",
     "static/js/2.bb32169e.chunk.js.map": "/Portfolio/static/js/2.bb32169e.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.583de726c92ceb8f47a41da93f2d1cca.js": "/Portfolio/precache-manifest.583de726c92ceb8f47a41da93f2d1cca.js",
+    "precache-manifest.7033bbc0c15338be6fd693e74272fabf.js": "/Portfolio/precache-manifest.7033bbc0c15338be6fd693e74272fabf.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/main.58c9d5dd.chunk.css.map": "/Portfolio/static/css/main.58c9d5dd.chunk.css.map",
     "static/js/2.bb32169e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bb32169e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Poladrone-logo.jpg": "/Portfolio/static/media/Poladrone-logo.7681246a.jpg",
     "static/media/UTM-LOGO-FULL.png": "/Portfolio/static/media/UTM-LOGO-FULL.7b160540.png",
     "static/media/address_image.svg": "/Portfolio/static/media/address_image.3b021f8f.svg",
-    "static/media/animated_ashutosh.png": "/Portfolio/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo copy.svg": "/Portfolio/static/media/animated_logo copy.57f19801.svg",
     "static/media/animated_logo.svg": "/Portfolio/static/media/animated_logo.f2b10053.svg",
     "static/media/animated_logo1.svg": "/Portfolio/static/media/animated_logo1.4b5687b1.svg",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.eb877bdd.js",
     "static/js/2.bb32169e.chunk.js",
     "static/css/main.58c9d5dd.chunk.css",
-    "static/js/main.e4db2ac8.chunk.js"
+    "static/js/main.7f5df36c.chunk.js"
   ]
 }

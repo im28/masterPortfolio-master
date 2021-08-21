@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15958277e16001dc2186679720c9a5fb",
+    "revision": "ab327aadadff5233980ccc5e6741114f",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "04a268b6f13841344198",
+    "revision": "8b731b2f4c2f25f6b16f",
     "url": "/Portfolio/static/css/main.58c9d5dd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.bb32169e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04a268b6f13841344198",
-    "url": "/Portfolio/static/js/main.e4db2ac8.chunk.js"
+    "revision": "8b731b2f4c2f25f6b16f",
+    "url": "/Portfolio/static/js/main.7f5df36c.chunk.js"
   },
   {
     "revision": "276f430d855a772a0241",
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "7681246aefce9d96177067cb4bb526e7",
+    "url": "/Portfolio/static/media/Poladrone-logo.7681246a.jpg"
+  },
+  {
     "revision": "7b1605403e465d13b4aa3c4458d47be9",
     "url": "/Portfolio/static/media/UTM-LOGO-FULL.7b160540.png"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
     "url": "/Portfolio/static/media/address_image.3b021f8f.svg"
-  },
-  {
-    "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "/Portfolio/static/media/animated_ashutosh.6c8410d0.png"
   },
   {
     "revision": "57f19801bfff722a846ad7e2524f2bc9",
